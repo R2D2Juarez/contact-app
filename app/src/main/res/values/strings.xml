@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">contacts-app</string>
+    <string name="lbl_btn_get_random_user">GET RANDOM USER</string>
+    <string name="lbl_btn_name">Name</string>
+    <string name="lbl_btn_address">Address</string>
+    <string name="lbl_btn_email">Email</string>
+    <string name="lbl_btn_save">Save</string>
+    <string name="lbl_btn_search">Search</string>
+    <string name="lbl_contacts_saved">CONTACTS SAVED</string>
+</resources>
